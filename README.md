@@ -17,7 +17,7 @@ Kaggle [Download Here](https://www.kaggle.com/datasets/kyanyoga/sample-sales-dat
 
 ### Analysis Process
 ---
-1.	Evaluated key business metrics, including total orders, customers, countries, quantity sold, average sales quantity, and sales per order. 
+1.	I Evaluated key business metrics, including total orders, customers, countries, quantity sold, average sales quantity, and sales per order. 
 2.	Analysed yearly, quarterly, and monthly sales trends. 
 3.	Examined sales performance across territories and countries to assess the impact of market accessibility. 
 4.	Identified top-performing product categories to understand customer preferences. 
