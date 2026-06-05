@@ -1,6 +1,6 @@
 # Analysis-of-Automative-Sales-Performance
 
-### Project Overview
+## Project Overview
 ---
 This project analyses an automotive and transport industry dataset to understand market performance and identify strategic opportunities to:
 •	Optimize marketing campaigns 
@@ -9,13 +9,13 @@ This project analyses an automotive and transport industry dataset to understand
 •	Increase sales 
 •	Identify new business opportunities
 
-#### Tool
+### Tool
 MYSQL (SELECT, UPDATE, & CASE STATEMENTS, CTEs, aggregate & window functions)
 
-#### Data Source: 
+### Data Source: 
 Kaggle [Download Here](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
-#### Analysis Process
+### Analysis Process
 ---
 1.	Evaluated key business metrics, including total orders, customers, countries, quantity sold, average sales quantity, and sales per order. 
 2.	Analysed yearly, quarterly, and monthly sales trends. 
